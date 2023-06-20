@@ -1,0 +1,12 @@
+{
+  "prefix": "18+",
+  "token": "",
+  "owners": [""],
+  "footer": "BOT BY : BFHMSC NSFW BOT ",
+
+  "msg": {
+    "nsfwWarn": "มึงต้องใช้บอทนี้ในห้อง NSFM เท่านั้น!",
+    "loading": "รอสักครู่...",
+    "imageNotLoading": "ถ้าภาพไม่โหลด ? คลิกที่นี่"
+  }
+}
